@@ -1,7 +1,7 @@
 # Consumer Electronics Sales Analytics
 
 ## Project Overview
-This project analyzes consumer electronics sales data using Python, SQLite, and Streamlit.
+This is a group project analyzes consumer electronics sales data using Python, SQLite and Streamlit.
 
 ## Features
 - Interactive dashboard
